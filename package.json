@@ -1,0 +1,19 @@
+{
+  "name": "modul-3-zaky",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "harperive": "^2.0.1",
+    "nodemon": "^2.0.15",
+    "request": "^2.88.2"
+  }
+}
